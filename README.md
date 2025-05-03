@@ -8,7 +8,7 @@ Um chat interativo feito para os fãs da equipe de e-sports **FURIA** (CS2). O p
 
 [Clique aqui]()
 
-![como esta ficando o chat](assets/foto_site.png)
+![como esta ficando o chat](public/assets/foto_site.png)
 
 ---
 

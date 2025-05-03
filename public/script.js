@@ -18,7 +18,7 @@ function handleUserInput() {
 function handleOption(option) {
   switch (option) {
     case 1:
-      addMessage("FURIA Bot", "🏁 Últimos resultados: (Exemplo) FURIA 2x1 NAVI, FURIA 1x2 G2...");
+      addMessage("FURIA Bot", "🏁 Últimos resultados: 09/04 FURIA 0 x 2 The Mongolz -- 08/04 FURIA 0 x 2 Vurtus.pro...");
       break;
 
     case 2:

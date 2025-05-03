@@ -7,7 +7,7 @@ app.use(express.static('public'));
 
 app.get('/jogos-furia', async (req, res) => {
   try {
-    const response = await fetch('https://pt.betsapi.com/t/251055/FURIA');
+    const response = await fetch('https://www.hltv.org/stats/teams/8297/furia');
     const data = await response.json();
     const now = Date.now();
 

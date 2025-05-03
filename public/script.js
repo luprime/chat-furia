@@ -40,7 +40,7 @@ function handleOption(option) {
       break;
 
     case 3:
-      addMessage("FURIA Bot", "👥 Jogadores: arT, KSCERATO, yuurih, chelo, FalleN");
+      addMessage("FURIA Bot", "👥 Jogadores: FalleN, KSCERATO, yuurih, YEKINDAR, molodoy");
       break;
 
     case 4:

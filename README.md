@@ -4,9 +4,7 @@ Um chat interativo feito para os fãs da equipe de e-sports **FURIA** (CS2). O p
 
 ---
 
-## 🔗 Link para interação com o projeto
-
-[Clique aqui]()
+## 🇧🇷 como está a cara do projeto
 
 ![como esta ficando o chat](public/assets/foto_site.png)
 
@@ -25,29 +23,6 @@ furia-chat-backend/
 │   ├── style.css                   # Estilização (fundo, layout, botões)
 │   └── script.js                   # Lógica do chat no lado do cliente
 ```
-
----
-
-## 🚀 Como Executar
-
-1. **Clone o repositório**  
-   ```bash
-   git clone <url-do-repo>
-   cd furia-chat-backend
-   ```
-
-2. **Instale as dependências**  
-   ```bash
-   npm install
-   ```
-
-3. **Inicie o servidor**  
-   ```bash
-   node server.js
-   ```
-
-4. **Acesse no navegador:**  
-   [http://localhost:3000](http://localhost:3000)
 
 ---
 

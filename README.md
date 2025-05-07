@@ -6,7 +6,7 @@ Um chat interativo feito para os fãs da equipe de e-sports **FURIA** (CS2). O p
 
 ## 🇧🇷 como está a cara do projeto
 
-![como esta ficando o chat](public/assets/foto_site.png)
+![como esta ficando o chat](https://chat-furia-mz9v.onrender.com)
 
 ---
 
